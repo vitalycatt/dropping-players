@@ -3,9 +3,7 @@ import { playersData } from "./data";
 import { DndProvider } from "react-dnd";
 import { HTML5Backend } from "react-dnd-html5-backend";
 import { Player, PlayerPosition } from "./components";
-
 import "./App.css";
-
 import FootballYardImage from "../src/assets/images/football-yard.jpg";
 
 const App = () => {
